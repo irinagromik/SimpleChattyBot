@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-classes-java.main" target="11" />
+      <module name="Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-reports-tests.main" target="11" />
+      <module name="Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-test-results.main" target="11" />
+      <module name="Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-tmp.main" target="11" />
+      <module name="Simple_Chatty_Bot.Simple_Chatty_Bot-task.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Conditional_statement-Chocolate.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Conditional_statement-Determine_the_output.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Conditional_statement-Healthy_sleep.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Conditional_statement-Leap_year.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Conditional_statement-Symmetrical_number.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Conditional_statement-The_condition_to_travel_around_the_world.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Conditional_statement-Theory.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Integer_types_and_operations-Calculate_the_digit.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Integer_types_and_operations-Difference_of_times.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Integer_types_and_operations-First_digit.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Integer_types_and_operations-Theory.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Relational_operators-Boys_in_a_sport_class.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Relational_operators-Check_the_sum.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Relational_operators-Determine_the_result.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Relational_operators-Theory.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-The_for-loop-Arithmetic_average.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-The_for-loop-Numbers_divisible_by_six.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-The_for-loop-Statements.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-The_for-loop-The_product_of_numbers_from_a_to_b.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-The_for-loop-Theory.main" target="11" />
+      <module name="Simple_Chatty_Bot.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
